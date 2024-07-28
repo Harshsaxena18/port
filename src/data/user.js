@@ -50,7 +50,7 @@ const INFO = {
 			tech:"MERN Stack",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://foodjunctions.netlify.app/",
 		},
 
 	],
