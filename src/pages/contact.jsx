@@ -59,13 +59,16 @@ const Contact = () => {
 							required fields and I'll get back to you as soon as
 							possible. Finally, if you prefer to connect on
 							social media, you can find me on{" "}
-							<a
+							<a href={`mailto:${INFO.main.email}`}>
+								{INFO.main.email}
+							</a>
+							{/*<a
 								href={INFO.socials.instagram}
 								target="_blank"
 								rel="noreferrer"
 							>
 								{INFO.socials.instagram}
-							</a>
+							</a>*/}
 							. I post regular updates and engage with my
 							followers there, so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
