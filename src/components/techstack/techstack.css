@@ -1,12 +1,12 @@
 .tech-stack-container {
   display: flex;
-  justify-content: space-between; /* Distribute sections evenly */
+  justify-content: space-between;  
   margin: 20px;
   
 }
 
 .tech-stack-section {
-  flex: 1; /* Make each section take up equal space */
+  flex: 1; 
   text-align: center;
   
 }
@@ -26,7 +26,7 @@
   
 }
 .tech-stack-divider {
-  border-right: 0.5px solid #acacb4; /* Adjust border style and color as needed */
+  border-right: 0.5px solid #acacb4; 
   margin: 20px 0;
 }
 
