@@ -55,7 +55,7 @@ const NavBar = (props) => {
 										? "nav-item active" 
 										: "nav-item"
 								}
-  								onClick={() => window.open("https://drive.google.com/file/d/1CU9erQJZBPLxAT855cgV8QXZdt-aszjv/view?usp=sharing")}>
+  								onClick={() => window.open("https://drive.google.com/file/d/1I1xuAcTfxzhz0k8QFggm1YyKOdNQjZX8/view?usp=drive_link")}>
   							<Link to="#">Resume</Link>
 							</li>
 						</ul>
